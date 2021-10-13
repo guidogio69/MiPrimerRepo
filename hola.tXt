@@ -4,3 +4,5 @@ Testing 2022
 y ella
 
 Comenzanbdo con Git
+
+git show agregado
